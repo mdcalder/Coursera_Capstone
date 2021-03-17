@@ -1,0 +1,21 @@
+# Peer-graded Assignment: Capstone Project Notebook
+
+### Instructions
+
+1. Write some markdown to explain that this notebook will be mainly used for the capstone project.
+2. Import the pandas library as pd.
+3. Import the Numpy library as np.
+4. Print the following the statement: Hello Capstone Project Course!
+
+### 1. Summary
+
+This notebook will by primarily used for a capstone project.
+
+### 2. Import Pandas
+import pandas as pd
+
+### 3. Import Numpy
+import numpy as np
+
+### 4. Print Statement
+print('Hello Capstone Project Course!')
